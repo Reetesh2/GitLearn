@@ -1,1 +1,6 @@
 for(int i=0;i<n;i++)
+
+
+done with for loops
+
+hello now the forloops  files are done 
